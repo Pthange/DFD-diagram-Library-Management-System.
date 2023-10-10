@@ -1,2 +1,2 @@
-# DFD-diagram-Library-Management-System.
-DFD diagram-Library Management System.
+# Diagram-Library-Management-System.
+DFD , ER diagram-Library Management System.
