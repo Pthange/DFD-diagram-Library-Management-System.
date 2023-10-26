@@ -24,10 +24,10 @@ public class Author
 {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	private int author_id;
-	private String author_name;
+	private int authorId;
+	private String authorName;
     private String nationality;
-    private String author_gender;
+    private String authorGender;
     
 //	@OneToMany(cascade=CascadeType.ALL)
 //	//use JsonManagedReference for bidirectional relationship

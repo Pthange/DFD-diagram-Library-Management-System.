@@ -24,15 +24,15 @@ public class Faculty
 {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	private int facultyId;
-	private String facultyName;
-	private String facultyEmail;
-	private String facultyusername;
-	private String facultypassword;
-	private String facultyDOB;
-	private String facultyGender;
-	private String facultyAddress;
-	private String mobno;
+	private int facId;
+	private String facName;
+	private String facEmail;
+	private String facusername;
+	private String facpassword;
+	private String facDOB;
+	private String facGender;
+	private String facAddress;
+	private String facMobno;
 	
 //	@OneToMany(cascade=CascadeType.ALL)
 //	@JsonManagedReference

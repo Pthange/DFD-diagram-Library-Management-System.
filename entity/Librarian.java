@@ -25,12 +25,12 @@ public class Librarian
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int libId;
-	private String libname;
-	private String libemail;
+	private String libName;
+	private String libEmail;
 	private String libusername;
 	private String libpassword;
-	private String libmobno;
-	 private String libgender;
+	private String libMobno;
+	 private String libGender;
 	 private String libDOB;
 	 
 //	@OneToMany(cascade=CascadeType.ALL)

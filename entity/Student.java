@@ -29,8 +29,8 @@ public class Student
 	private int stud_Id;
 	private String studName;
 	private String studEmail;
-	private String studUsername;
-	private String studPassword;
+	private String studusername;
+	private String studpassword;
 	private String studDOB;
 	private String studGender;
 	private String studAddress;
